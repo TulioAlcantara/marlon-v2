@@ -1,0 +1,1 @@
+export { default } from "file:///home/tulio/Dev/marlon-v2/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
